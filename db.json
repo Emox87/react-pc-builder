@@ -1,0 +1,16 @@
+{
+    "payments": [
+        {
+            "month": "April",
+            "shifts": 15,
+            "salary": 733,
+            "status": "pending"
+        },
+        {
+            "month": "May",
+            "shifts": 15,
+            "holidays": "1,5,24",
+            "status": "pending"
+        }
+    ]
+}
