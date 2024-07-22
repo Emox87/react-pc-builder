@@ -1,4 +1,4 @@
-function MotherboardPage() {
+function MotherBoardPage() {
   return (
     <>
       <h1>Motherboard Page</h1>
@@ -6,4 +6,4 @@ function MotherboardPage() {
   );
 }
 
-export default MotherboardPage;
+export default MotherBoardPage;
